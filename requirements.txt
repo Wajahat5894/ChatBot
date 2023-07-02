@@ -1,0 +1,7 @@
+boto3==1.18.33
+numpy==1.21.2
+pygame==2.0.1
+pydub==0.25.1
+soundfile==0.0.3
+sounddevice==0.4.2
+openai==0.27.0
